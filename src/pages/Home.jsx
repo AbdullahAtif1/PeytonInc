@@ -62,7 +62,7 @@ const Home = () => {
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a href={`tel:${PHONE.replace(/\D/g,'')}`} className="clip-trap flex items-center justify-center gap-2 bg-red-600 text-white px-8 py-4 font-black text-lg hover-lift shadow-red-500/30 shadow-lg">
                 <PhoneCall size={20} />
-                CALL JOSUE
+                CALL DE MARDRAY
               </a>
               <a href="#documents" className="clip-trap flex items-center justify-center gap-2 bg-white text-gray-900 border border-gray-300 px-8 py-4 font-bold text-lg hover:bg-gray-900 hover:text-white transition-colors shadow-sm">
                 BROKER PACKET
@@ -249,7 +249,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 text-center">
             <h2 className="text-3xl font-black uppercase mb-8 text-gray-900">Service <span className="text-red-600">Area</span></h2>
             <p className="text-gray-500 mb-12 max-w-2xl mx-auto">
-                Specializing in Southeast to Midwest lanes. Open to structured backhauls or dedicated regional runs.
+                Specializing in WEST COAST ↔ SOUTHWEST lanes. Open to structured backhauls or dedicated regional runs.
             </p>
 
             <div className="flex flex-wrap justify-center gap-4">
