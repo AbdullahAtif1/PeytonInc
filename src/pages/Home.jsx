@@ -15,6 +15,8 @@ const Home = () => {
   const MC_NUMBER = "1707352";
   const DOT_NUMBER = "4362431";
   const HOME_BASE = "20193 KLYNE ST CORONA, CA 92881";
+  const SERVICE_AREA = "WEST COAST ↔ SOUTHWEST";
+  const CARRIER_NAME = "DE MARDRAY PRITCHETT"
 
   const handleDownload = (docName) => {
     if (!isUnlocked) { setShowModal(true); return; }
